@@ -1,0 +1,469 @@
+<resources>
+    <string name="app_name">Digital Doctor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Fever">
+
+        Fever:\n\n
+A fever is a temporary increase in your body temperature, often due to an illness. Having a fever is a sign that something out of the ordinary is going on in your body.\n\n
+Symptoms:\n\n
+Depending on what is causing your fever, additional fever signs and symptoms may include:\n\n
+   1.Sweating\n
+    2.Chills and shivering\n
+    3.Headache\n
+    4.Muscle aches\n
+    5.Loss of appetite\n
+    6.Irritability\n
+    7.Dehydration\n
+    8.General weakness\n\n
+
+Taking a temperature:\n\n
+1.To check your or your  temperature, you can choose from several types of thermometers, including oral, rectal, ear (tympanic) and forehead (temporal artery) thermometers.\n\n
+
+2.Although it is not the most accurate way to take a temperature, you can use an oral thermometer for an armpit (axillary) reading:\n\n
+
+3.Place the thermometer in the armpit and cross your arms or your child\'s arms over the chest.\n\n
+4.Wait four to five minutes. The axillary temperature is slightly lower than an oral temperature.\n\n
+5.If you call your doctor, report the actual number on the thermometer and where on the body you took the temperature.\n\n
+
+Emergency Consult With Doctor for Adult:\n\n
+Call your doctor if your temperature is 103 F (39.4 C) or higher. Seek immediate medical attention if any of these signs or symptoms accompanies a fever:\n\n
+
+    1.Severe headache\n
+    2.Unusual skin rash, especially if the rash rapidly worsens\n
+    3.Unusual sensitivity to bright light\n
+    4.Stiff neck and pain when you bend your head forward\n
+    5.Mental confusion\n
+    6.Persistent vomiting\n
+    7.Difficulty breathing or chest pain\n
+    8.Abdominal pain or pain when urinating\n
+    9.Convulsions or seizures\n
+
+    </string>
+
+
+    <string name="FirstAidDescription">
+        1. If you  want to know
+        about Symptoms and causes of common diseases, select "COMMON DISEASES"\n\n
+        2. If you are looking for Accidental Health and Safety, select "ACCIDENTAL FIRST AID"\n\n
+         We strongly recommend you to consult with Doctor
+    </string>
+    <string name="Allergies">
+        Allergies Overview:\n\n
+
+Allergy symptoms include itchy eyes and skin, sneezing, nasal congestion, wheezing, and rash. Seasonal allergies result from grass, weed, tree pollen, or molds. Cat and dog dander allergies are common. Food allergies include peanut or milk.\n\n
+
+
+What Is an Allergy?\n\n
+
+It is what happens when your immune system reacts to something that\’s usually harmless. Those triggers, which doctors call "allergens," can include pollen, mold, and animal dander, certain foods, or things that irritate your skin.\n\n
+
+
+What Happens During an Allergic Reaction?\n\n
+
+1.It starts when you come into contact with a trigger that you inhale, swallow, or get on your skin.\n
+
+2.In response, your body starts to make a protein called IgE, which grabs onto the allergen. Then histamine and other chemicals get released into the blood. That causes the symptoms you notice.\n
+
+
+
+What Are the Symptoms?\n\n
+
+Your symptoms depend on how you’re exposed — through the air, your skin, food, or through an insect sting.\n\n
+
+If you’ve got a nasal or skin allergy, common symptoms include:\n\n
+
+    1.Itchy, watery eyes\n
+    2.Sneezing\n
+    3.Itchy, runny nose\n
+    4.Rashes\n
+    5.Feeling tired or ill\n
+    6.Hives (a rash with raised red patches)\n
+    </string>
+
+    <string name="BackPain">
+
+Back Pain Overview:\n\n
+
+Back pain includes lower back pain, middle back pain, upper back pain or low back pain with sciatica. Nerve and muscular problems, degenerative disc disease, and arthritis can result in back pain. Back pain symptoms may be relived with pain medication or pain killers.\n\n
+
+
+What Are the Symptoms of Back Pain?\n\n
+
+ Symptoms of back pain can include:\n\n
+
+
+
+   1. Persistent aching or stiffness anywhere along your spine, from the base of the neck to the tail bone\n\n
+   2 Sharp, localized pain in the neck, upper back, or lower back -- especially after lifting heavy objects or engaging in other strenuous activity; (pain in the upper back can also be a sign of a heart attack or other life-threatening conditions.)\n\n
+   3 Chronic ache in the middle or lower back, especially after sitting or standing for extended periods\n\n
+
+
+Call Your Doctor About Back Pain If:\n\n
+
+    1.You feel numbness, tingling, or weakness in your groin, arms or legs; this may signal damage to the spinal cord. Seek immediate medical help.\n\n
+    2.The pain in your back extends downward along the back of the leg; you may be suffering from sciatica.\n\n
+    3. The pain increases when you cough or bend forward at the waist; this can be the sign of a herniated disc.\n\n
+    4.The pain is accompanied by fever, burning during urination, or frequent and/or urgent urination. You may have an infection.\n\n
+    5.You begin to have problems controlling your bowels or bladder; seek immediate medical help.\n\n
+
+   6. Back pain that radiates from the low back to the buttock, down the back of the thigh, and into the calf and toes\n\n
+    7. Inability to stand straight without having pain or muscle spasms in the lower back\n\n
+
+    </string>
+
+
+    <string name="BloodPressure">
+        Low Blood Pressure Symptoms:\n\n
+
+Symptoms of low blood pressure or hypotension may include:\n\n
+
+    1.Fainting (syncope)\n
+    2.Dizziness\n
+    3.A feeling of lightheadedness\n
+    4.Chest pain\n
+    5.Blurred vision\n
+    6.Increased thirst\n
+
+
+What Are the Symptoms and Signs of Hypertension ?\n\n
+
+Hypertension may not produce any symptoms, even if you have had it for years. That’s why it is sometimes referred to as a "silent killer." It’s estimated that 1 out of every 5 people with high blood pressure aren’t aware that they have this major risk factor for strokes and heart attacks. If not properly treated, high blood pressure can damage the heart and circulation, lungs, brain, and kidneys without causing noticeable symptoms. Symptoms of high blood pressure may be present in those who have an extremely high blood pressure.\n\n
+
+Symptoms of extremely high blood pressure include the following:\n\n
+
+    1.Severe headaches\n
+    2.Fatigue\n
+    3.Vision problems\n
+    4.Chest pain\n
+    5.Difficulty breathing\n
+    6.Irregular heartbeat\n
+    7.Blood in the urine\n
+    8.Pounding in the chest, neck, or ears.\n
+
+    </string>
+
+    <string name="Cold">
+
+        Cold:\n\n
+
+Is It Really a Cold?\n\n
+Your nose is running, you have got a cough, and your throat is raw. How can you tell whether you have a cold, allergies, or the flu? A few telltale signs can help you tell them apart. \n\n
+
+The Start of a Cold\n\n
+
+It usually begins with a sore throat, and before you know it, you have also got these symptoms:\n\n
+
+    1.Runny nose (clear and watery)\n
+    2.Sneezing\n
+    3.Fatigue\n
+    4.Cough\n
+
+Call your doctor if you have:\n\n
+
+    1.An earache\n\n
+    2.Pain around the nose and eyes (sinuses) for more than a week\n\n\
+    3.Fever above 102 degrees F. If your child is younger than 3 months and has a temperature of 100.4 degrees F or higher, call your doctor right away.\n\n
+    4.Fever that lasts more than a day in a child under 2, or more than 3 days in a child age 2 or older\n\n
+    5.Cough up mucus for more than a week\n\n
+    6.Shortness of breath\n\n
+    7.Worsening symptoms\n\n
+    8.Symptoms that last longer than 2 weeks\n\n
+    Trouble swallowing.\n\n
+    9.A sore throat for more than 5 days\n\n
+    10.Pain or pressure in the chest or belly\n\n
+    11.A stiff neck or sensitivity to bright lights\n
+
+
+    </string>
+    <string name="Cough">
+
+        Cough Symptoms:\n\n
+
+A chronic cough can occur with other signs and symptoms, which may include:\n\n
+
+    1.A runny or stuffy nose\n
+    2.A feeling of liquid running down the back of your throat (postnasal drip)\n
+    3.Frequent throat clearing and sore throat\n
+    4.Hoarseness\n
+    5.Wheezing and shortness of breath\n
+    6.Heartburn or a sour taste in your mouth\n
+    7.In rare cases, coughing up blood\n
+
+When to see a doctor:\n\n
+
+See your doctor if you have a cough that lingers for weeks, especially one that brings up sputum or blood, disturbs your sleep, or affects school or work.\n
+    </string>
+    <string name="Depression">
+
+        Depression Symptoms:\n\n
+
+Depression is an illness that involves the body, mood, and thoughts and affects the way a person eats and sleeps, the way one feels about oneself, and the way one thinks about things. A depressive disorder is not the same as a passing blue mood and is more than a case of persistent sadness.\n\n
+
+Symptoms of depression also include:\n\n
+
+     1.feelings of worthlessness.\n
+     2.hopelessness.\n
+     3.helplessness.\n
+     4.guilt.\n
+     5.lack of interest in daily activities.\n
+     6.irritability.\n
+     7.loss of energy.\n
+     8.loss of appetite.\n
+     9.sleep problems.\n
+     10.self-loathing.\n
+     11.thoughts of suicide.\n
+
+
+How specialists treat depression:\n\n
+
+A variety of health-care specialists evaluate and treat people with this condition, including the followings:\n\n
+
+   1. Primary-care providers like family doctors,
+   internal-medicine practitioners, or geriatricians (physicians who specialize in treating the    elderly)\n\n
+
+   2.Mental-health specialists, such as psychiatrists, clinical psychologists, social workers,     pastoral or mental-health nurses, or other counselors\n\n
+
+    </string>
+    <string name="Diarrhea">
+        Diarrhea is one of the most common reasons for people to seek medical advice; it can range from a mild, temporary condition, to one that can be life-threatening.\n\n
+
+Here are some key points about diarrhea. More detail and supporting information is in the body of this article.\n\n
+
+    1.Most cases of diarrhea are caused by bacteria, viruses, or parasites\n\n
+    2.Inflammatory bowel diseases (IBD) including Crohns disease and ulcerative colitis can cause chronic diarrhea\n\n
+    3.Antidiarrheal medications can reduce diarrheal output and zinc supplement is effective in children\n\n
+    4.Some nutritional and probiotic interventions may be effective against diarrhea\n\n
+
+Symptoms of diarrhea:\n\n
+
+ Diarrhea - loose and watery stools - is itself a symptom of other conditions. However, it may be accompanied by other symptoms, including:\n\n
+
+    1.Stomach pain\n
+    2.Abdominal cramps\n
+    3.Bloating\n
+    4.Thirst\n
+    5.Weight loss\n
+    6.Fever\n
+
+
+Treatments for diarrhea:\n\n
+
+ For all cases of diarrhea, the first important step in treatment is to rehydrate:\n\n
+
+    1. Fluids can be replaced by simply drinking more fluids, or they can be received intravenously in severe cases. Children and older people are more vulnerable to dehydration.\n\n
+    2. Oral rehydration solution/salts (ORS) - this is water that contains salt and glucose. It is absorbed by the small intestine to replace the water and electrolytes lost in the stool. In developing countries, ORS costs just a few cents; the World Health Organization (WHO) says ORS can safely and effectively treat over 90 percent of non-severe diarrhea cases).\n\n
+    3.Oral rehydration products are available commercially - for example Oralyte and Rehydralyte. Zinc supplementation may reduce the severity and duration of diarrhea in children.\n\n
+
+
+Prevention of diarrhea:\n\n
+
+In developing countries, prevention of diarrhea may be more challenging due to dirty water and poor sanitation. The following practical measures help to prevent the condition:\n\n
+
+    1.Clean/safe drinking water\n\n
+    2.Good sanitation (toilets and sewerage, for example)\n\n
+    3.Handwashing with soap - after defecation, after cleaning a child who has defecated, after disposing of a child's stool, before preparing food, and before eating\n\n
+    4.For mothers with young babies, breastfeeding for the first 6 months of life\n\n
+   5.Good hygiene practices - both personal hygiene and in the kitchen\n\n
+    6.Education on the spread of infection\n\n
+
+There is evidence that interventions from public health bodies to simply promote hand washing can cut diarrhea rates by about one-third.\n
+
+    </string>
+    <string name="headache">
+        What causes tension headaches?\n\n
+
+While tension headaches are the most frequently occurring type of headache, their cause is not known. The most likely cause is contraction of the muscles that cover the skull. When the muscles covering the skull are stressed, they may become inflamed, go into spasm, and cause pain. Common sites include the base of the skull where the trapezius muscles of the neck insert, the temples where muscles that move the jaw are located, and the forehead.\n\n
+
+There is little research to confirm the exact cause of tension headaches. It is believed that tension headaches occur because of physical stress on the muscles of the head. For example, these stressors can cause the muscles surrounding the skull to clench the teeth and go into spasm. Physical stressors include difficult and prolonged manual labor, or sitting at a desk or computer concentrating for long periods. Emotional stress also might cause tension headaches by causing the muscles surrounding the skull to contract.\n\n
+
+What are the signs and symptoms of tension headaches?\n\n
+
+   1. Pain that begins in the back of the head and upper neck and is often described as a band-like tightness or pressure. It may spread to encircle the head.\n\n
+   2.The most intense pressure may be felt at the temples or over the eyebrows where the temporalis and frontal muscles are located.\n\n
+   3. The pain may vary in intensity but usually is not disabling, meaning that the sufferer may continue with daily activities. The pain usually is bilateral (affecting both sides of the head).\n\n
+   4. The pain is not associated with an aura (see below), nausea, vomiting, or sensitivity to light and sound.\n\n
+   5. The pain occurs sporadically (infrequently and without a pattern) but can occur frequently and even daily in some people.\n
+   6. The pain allows most people to function normally, despite the headache.
+    </string>
+    <string name="Vomiting">
+
+        Nausea is an uneasiness of the stomach that often comes before vomiting. Vomiting is the forcible voluntary or involuntary emptying ("throwing up") of stomach contents through the mouth.\n\n
+
+
+What Causes Nausea or Vomiting?\n\n
+
+Nausea and vomiting are not diseases, but they are symptoms of many conditions such as:\n\n
+
+    1. Motion sickness or seasickness\n
+    2. Medication-induced vomiting\n
+    3. Intense pain\n
+    4. Emotional stress (such as fear)\n
+    5. Gallbladder disease\n
+    6. Food poisoning\n
+    7. Infections (such as the "stomach flu")\n
+    8. Overeating\n
+    9. A reaction to certain smells or odors\n
+   10. Ulcers\n
+   11. Gastroparesis or slow stomach emptying (a condition that can be seen in people with diabetes)\n
+   12. Ingestion of toxins or excessive amounts of alcohol\n
+
+
+When to Call the Doctor About Nausea and Vomiting:\n\n
+
+Call a doctor about nausea and vomiting:\n\n
+
+   1. If the nausea lasts for more than a few days or if there is a possibility of being pregnant(Women)\n\n
+    2. If home treatment is not working, dehydration is present, or a known injury has occurred (such as head injury or infection) that may be causing the vomiting\n\n
+   3. Adults should consult a doctor if vomiting occurs for more than one day, diarrhea and vomiting last more than 24 hours, or there are signs of dehydration.\n\n
+    4. Take an infant or child under six years to the doctor if vomiting lasts more than a few hours, diarrhea is present, signs of dehydration occur, there is a fever, or if the child hasn\'t urinated for 4-6 hours.\n\n
+    5. Take a child over age six years to the doctor if vomiting lasts one day, diarrhea combined with vomiting lasts for more than 24 hours, there are any signs of dehydration, there is a fever higher than 101 degrees, or the child hasn\'t urinated for six hours.\n\n
+
+
+You should seek immediate medical care if any of the following situations occur with vomiting:\n\n
+
+    1. There is blood in the vomit (bright red or "coffee grounds" in appearance)\n
+    2. Severe headache or stiff neck\n\n
+    3. Lethargy, confusion, or a decreased alertness\n\n
+    4. Severe abdominal pain\n\n
+    5. Diarrhea\n\n
+    6. Rapid breathing or pulse\n
+
+    </string>
+
+    <string name="Animal_Bites">
+
+Animal Bites Treatment:\n\n
+
+1. Stop Bleeding\n
+
+    *Apply direct pressure until bleeding stops.\n
+2. Clean and Protect\n\n
+For a wound or superficial scratch from an animal bite:\n\n
+    *Gently clean with soap and warm water. Rinse for several minutes after cleaning.\n\n
+    *Apply antibiotic cream to reduce risk of infection, and cover with a sterile bandage.\n\n
+3. Get Help\n\n
+    *Get medical help immediately for any animal bite that is more than a superficial scratch or if the animal was a wild animal or stray, regardless of the severity of the injury.\n\n
+
+    *If the animal\'s owner is available, find out if the animal\'s rabies shots are up-to-date. Give this information to your health care provider.\n\n
+
+    *If the animal was a stray or wild animal, call the local health department or animal control immediately.\n\n
+
+
+Emergency Consult with Doctor if:\n\n
+
+    1.The person has been seriously wounded.\n
+    2.Bleeding can\'t be stopped after 10 minutes of firm and steady pressure.\n
+    3.Bleeding is severe.\n
+    4.Blood spurts from the wound.\n
+
+
+
+    </string>
+    <string name="cuts_laceration">
+Cuts or Lacerations Treatment
+
+In general, a cut that needs stitches should be repaired within 6 hours of the injury. The exception is cuts to the face and scalp, which generally can be repaired up to 24 hours after the injury.\n\n
+
+What to do:\n
+1.Stop the Bleeding Applying direct pressure on the area.\n\n
+2.Clean the area with warm water and gentle soap.\n\n
+3.Apply an antibiotic ointment to reduce chance of infection.\n\n
+4.Put a sterile bandage on the area. In some people, antibiotic ointments may cause a rash. If this happens, stop using the ointment.\n\n
+
+Emergency hospitalize if:\n\n
+    1.A cut is bleeding severely\n
+    2.Blood is spurting out\n
+    3.Bleeding can\'t be stopped after 10 minutes of firm and steady pressure\n\n
+    4.The cut is deep or over a joint\n\n
+    5.You cannot get the cut or laceration clean\n\n
+    6.The injury is a deep puncture wound\n\n
+    7.The cut is from a human or animal bite\n\n
+
+
+
+    </string>
+    <string name="heat_stroke">
+Heat Stroke:\n\n
+Heat Stroke Symptoms:\n\n
+    1.Body temperature above 103° F\n
+    2.Rapid pulse\n
+    3.Reduced sweating\n
+    4.Disorientation\n
+    5.Unconsciousness\n
+    6.Seizures\n
+    7.Warm, red, dry skin\n\n
+What to do:\n\n
+1.Heat stroke is a medical emergency. Seek immediate emergency care if you think someone might have heat stroke.\n\n
+2.Lower Body Temperature While Waiting for Emergency Services to Arrive.\n\n
+3.Get the person into air conditioning if possible or out of the sun and into the shade.\n\n
+4.Spray the person with cool water, or apply cold wet cloths or ice packs to the armpits, neck, and groin. Fan air across the person to increase cooling. These methods help cool the person more quickly.\n\n
+
+
+
+    </string>
+    <string name="muscle_strain">
+
+Muscle Strain Treatment:\n\n
+What to do:\n\n
+   1.Control Swelling by applying an elastic bandage, sling, or splint.\n\n
+   2.Rest the muscle for at least a day\n\n
+   3.Ice immediately, and continue to ice for 10 to 15 minutes every hour, for 2-3 days.\n\n
+   4.Compress by gently wrapping with an Ace or other elastic bandage. (Don\'t wrap tightly.)\n\n
+   5.Elevate injured area above the person\'s heart level, if possible, for at least 24 hours.\n\n
+
+Emergency hospitalize if:\n\n
+
+    1.There\'s significant swelling, pain, fever, bleeding, or open cuts.\n\n
+    2.The person heard a “popping” sound or can\’t walk, and there is no other way that they can safely and quickly be transported to a medical facility.\n\n
+    3.After a day or two the person can\'t move or put weight on the affected area.\n\n
+    4.There is new or severe pain.\n
+    </string>
+    <string name="Thermal_Burns">
+
+   Thermal Burns Treatment:\n\n
+Stop Burning Immediately:\n\n
+
+   1. Put out fire or stop the person\'s contact with hot liquid, steam, or other material.\n
+
+   2. Help the person "stop, drop, and roll" to smother flames.\n
+
+   3. Remove smoldering material from the person.\n
+
+   4. Remove hot or burned clothing. If clothing sticks to skin, cut or tear around it.\n
+   5.Take off jewelry, belts, and tight clothing. Burns can swell quickly.\n
+   For First-Degree Burns (Affecting Top Layer of Skin):\n\n
+  1. Cool Burn:\n\n
+
+    *Hold burned skin under cool (not cold) running water or immerse in cool water until pain subsides.\n
+    *Use compresses if running water isn\’t available.\n
+
+2. Protect Burn:\n\n
+
+    *Cover with sterile, non-adhesive bandage or clean cloth.\n
+    *Do not apply butter or ointments, which can cause infection.\n\n
+
+ When to See a Doctor\n\n
+
+Seek medical help if:\n\n
+
+    1.You see signs of infection, like increased pain, redness, swelling, fever, or oozing.\n\n
+    2.The person needs tetanus or booster shot, depending on date of last injection. Tetanus booster should be given every 10 years.\n\n
+    3.The burn blister is larger than two inches or oozes.\n\n
+    4.Redness and pain last more than a few hours.\n\n
+   5.Pain worsens.\n\n
+
+
+Emergency hospitalize if:\n\n
+    1.The burn penetrates all layers of the skin.\n
+    2.The skin is leathery or charred looking, with white, brown, or black patches.\n
+    3.The hands, feet, face, or genitals are burned.\n
+    4.The person is an infant or a senior.\n
+
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

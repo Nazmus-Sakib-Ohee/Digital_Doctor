@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.HomeActivity"
+    tools:showIn="@layout/app_bar_home">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="185sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/about_doc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        android:id="@+id/relativeLayout">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:src="@drawable/doctor_ic" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="sans-serif-condensed"
+            android:text="Doctor Ratings"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="5dp"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="118dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="First_Aid"
+        android:layout_below="@+id/relativeLayout"
+        android:background="@drawable/round"
+        android:id="@+id/relativeLayout2">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView3"
+            android:onClick="First_Aid"
+            android:layout_alignParentBottom="true"
+            android:textColorHighlight="#123423"
+            android:layout_alignRight="@+id/imageView3"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="5dp"
+            android:textSize="20sp"
+            android:text="First Aid"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="200dp" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:onClick="First_Aid"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/deases"
+            android:id="@+id/imageView3" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="118dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:onClick="appointment_button"
+        android:layout_below="@+id/relativeLayout"
+        android:background="@drawable/appoinment">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_above="@+id/textView3"
+            android:layout_centerHorizontal="true"
+            android:onClick="appointment_button"
+            android:src="@drawable/appoint_ico" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="appointment_button"
+            android:fontFamily="sans-serif-condensed"
+            android:text="Appointment"
+            android:layout_marginBottom="5dp"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="118dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="physical_Condition"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/phy_co">
+
+        <ImageView
+            android:layout_width="55dp"
+            android:onClick="physical_Condition"
+            android:layout_height="90dp"
+            android:layout_above="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ask_ico" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:onClick="physical_Condition"
+            android:text="Physical\nCondition"
+            android:layout_marginBottom="5dp"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/N_hospital"
+        android:layout_width="150dp"
+        android:layout_height="118dp"
+        android:background="@drawable/ask_doc"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="hospitals"
+        android:layout_alignParentRight="true">
+
+        <ImageView
+
+            android:layout_width="60dp"
+            android:layout_height="55dp"
+            android:onClick="hospitals"
+            android:layout_above="@+id/textView5"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/nearest_doctor" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="hospitals"
+            android:fontFamily="sans-serif-condensed"
+            android:text="Nearest\nHospital"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="2dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView5" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

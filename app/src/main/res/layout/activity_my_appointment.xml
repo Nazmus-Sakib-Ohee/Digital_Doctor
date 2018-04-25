@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.MyAppointment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/clear"
+            android:layout_width="match_parent"
+            android:text="Clear"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@drawable/appoinment"
+            android:layout_height="70dp"
+            android:layout_marginBottom="20dp"
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            >
+            <TextView
+                android:padding="1dp"
+                android:layout_margin="1dp"
+                android:background="@drawable/round2"
+                android:id="@+id/txt"
+                android:layout_width="match_parent"
+                android:text="No Appointments Yet"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#000"
+                android:textColorHighlight="#681111"
+
+                android:layout_height="wrap_content" />
+        </ScrollView>
+
+    </LinearLayout>
+
+
+</LinearLayout>

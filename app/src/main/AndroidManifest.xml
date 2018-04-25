@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.Nazmus_Sakib_Ohee.digital_doctor">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Splashscreen"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.HomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Cmn_Diseases" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.First_AidRsl" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Fever" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Cough" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Cold" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Allergies" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Tension_headache" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Vomiting" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Back_pain" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Depression" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Blood_pressure" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Accidental_Fst" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Animal_bites" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.cuts_laceration" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Heat_Stroke" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Muscle_Strain" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Thermal_Burns" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Appointment" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Physical_Condition_Butn" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Surgery" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.ListView" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.Serial" />
+        <activity android:name="com.example.Nazmus_Sakib_Ohee.digital_doctor.MyAppointment"></activity>
+    </application>
+
+</manifest>

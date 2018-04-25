@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.Thermal_Burns">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#AAD9C9"
+        android:padding="5dp"
+        android:text="@string/Thermal_Burns"
+        android:textColor="#461C1C"
+        android:textSize="15sp" />
+
+</ScrollView>

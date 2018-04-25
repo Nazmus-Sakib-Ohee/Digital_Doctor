@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.Physical_Condition_Butn">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Cold, Cough, Fever"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Eye Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Burn and Surgery Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Heart Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Hadache ,Blood Presure"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Cancer Diseases"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Diarrhea, Pneumonia, Vomiting"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Child Diseases"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Chest Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Skin,Scalp,Hair,or Nails"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Teeth Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Ear Nose Throat and Head-Neck"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Maternity and Typical Women Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Digest Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Kidney Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Brain, Nerve, Spine"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Skeletal,Spine, Muscles and Ligaments"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Psychological Problems Like Depressions"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Physical Problems Like Injury ,Back Pain"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Skin Allergy or Sexual Problems"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Sports Injury Like Muscle Strain"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

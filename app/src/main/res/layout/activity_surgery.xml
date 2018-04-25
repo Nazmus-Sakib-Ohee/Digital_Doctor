@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.Surgery">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Brain, Nerve and Spine Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Burn and plastic Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Burn Troma and Cosmetic Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Child Problem Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Chest Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Eye Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Ear Nose Throat and Head-Neck Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="General and laparoscopic surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Heart, Blood tract Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Kidney and Urinary tract Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Laser Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Neuro Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Orthopedics Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Skin Allergy and Sexual Problem Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Scissors and Gynecologist Surgeon"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

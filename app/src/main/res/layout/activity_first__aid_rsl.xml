@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.First_AidRsl"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:gravity="fill_horizontal"
+
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:text="@string/FirstAidDescription"
+        android:background="#54079463"
+        android:textSize="15sp"
+        android:textColor="#581916"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/cmn_dss"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@drawable/appoint_round"
+        android:text="Common Diseases"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+
+        />
+
+    <Button
+        android:id="@+id/accdntal_fst"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/appoint_round"
+        android:layout_height="90dp"
+        android:textAllCaps="false"
+        android:layout_margin="5dp"
+        android:text="Accidental First Aid"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+</LinearLayout>
+
+</ScrollView>

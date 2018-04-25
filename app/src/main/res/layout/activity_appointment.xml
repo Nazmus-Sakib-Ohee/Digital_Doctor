@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FAFAFA"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.Appointment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/surgery"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Surgery Specialists"
+            android:padding="10dp"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/ohee"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/appoint_round"
+            android:fontFamily="serif"
+            android:padding="10dp"
+            android:text="Cardiologists"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Cancer Specialists"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Child Specialists(pediatric)"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:background="@drawable/appoint_round"
+            android:text="Chest Specialists"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Dermatologists"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Diabetologists"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Dental Specialists"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Ear, Nose,Throat and Head-Neck Specialists"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:background="@drawable/appoint_round"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Gynecologist"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Gastroenterologist"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Medicine Specialists"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Nephrologist (kidney)"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Neurologists"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Orthopedics"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Physicians"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Psychiatrists"
+            android:textAllCaps="false"
+            android:background="@drawable/appoint_round"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:text="Burn Specialists"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:fontFamily="serif"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+
+</ScrollView>

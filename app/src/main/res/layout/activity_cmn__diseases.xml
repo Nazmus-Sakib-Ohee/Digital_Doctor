@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context="com.example.Nazmus_Sakib_Ohee.digital_doctor.Cmn_Diseases">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/fever"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Fever"
+
+            />
+        <Button
+            android:id="@+id/cough"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Cough"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+
+            />
+
+        <Button
+            android:id="@+id/cold"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Cold"
+            android:textColor="#ffffff"
+            android:textSize="22sp"
+            android:background="@drawable/appoint_round"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+
+         />
+
+        <Button
+            android:id="@+id/allergies"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Allergies"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+
+
+        <Button
+            android:id="@+id/tension_headaches"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Tension Headaches"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+
+        <Button
+            android:id="@+id/vomiting"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Nausea and Vomiting"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+        <Button
+            android:id="@+id/back_pain"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Back Pain"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+        <Button
+            android:id="@+id/depression"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Depression"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+        <Button
+            android:id="@+id/blood_pressure"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="Blood Pressure"
+            android:background="@drawable/appoint_round"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            />
+    </LinearLayout>
+
+</ScrollView>
